@@ -1,5 +1,5 @@
 {
-  "name": "tests",
+  "name": "token_saver",
   "version": "1.0.0",
   "description": "Decentralized protection for your tokens",
   "main": "truffle-config.js",
