@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - 12
+
+script:
+  - npm i
+  # - ganache-cli -p 4545 > /dev/null &
+  - sleep 5
+  # - truffle test
+
